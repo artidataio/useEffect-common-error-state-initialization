@@ -1,2 +1,2 @@
-# useEffect-common-error-state-initialization
+# useEffect-common-error
 Created with CodeSandbox
