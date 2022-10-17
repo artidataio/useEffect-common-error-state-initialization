@@ -1,6 +1,6 @@
 # useEffect-common-error-state-initialization
 
-This code demonstrates common misuse of useEffect.
+This code demonstrates one common misuse of useEffect.
 I have seen it here: https://www.facebook.com/groups/442974152553174/permalink/2251284581722113/
 but no one seems to pickup on this obvious error.
 When you initialize state with useEffect the first render will be wrong and will only be corrected on the after useEffect execution.
